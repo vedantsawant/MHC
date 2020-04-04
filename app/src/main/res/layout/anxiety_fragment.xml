@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_centerVertical="true"
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/anxiety"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-178dp"
+        tools:ignore="MissingConstraints"
+        android:alpha="0.5"/>
+
+    <TextView
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/anxiety"
+        tools:ignore="MissingConstraints"
+        android:layout_margin="30dp"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        tools:layout_editor_absoluteX="-31dp"
+        tools:layout_editor_absoluteY="467dp"></TextView>
+</RelativeLayout>

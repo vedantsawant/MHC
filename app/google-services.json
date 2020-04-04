@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "178723100980",
+    "firebase_url": "https://mhcapp2-1583484348208.firebaseio.com",
+    "project_id": "mhcapp2-1583484348208",
+    "storage_bucket": "mhcapp2-1583484348208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178723100980:android:59e10a85a1aa42aae4ed61",
+        "android_client_info": {
+          "package_name": "com.example.mhcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178723100980-2t12a4pdr6nqmlkddb2qd1sih0sm97s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVLVoiTNIMjsbOJZZvUJix0ef0vUxGdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178723100980-2t12a4pdr6nqmlkddb2qd1sih0sm97s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
